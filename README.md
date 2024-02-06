@@ -1,5 +1,6 @@
 # SoybeanFBA
-Analysis folder contains all code used to generate figures in Holland et al. 2023
+The soybean FBA model used in  Holland et al. 2023 along with code for all analyses in the paper are in the Analysis folder. 
+
 Remaining directories are code required to construct soybean FBA model as follows:
 1. Produce_Plant
 2. Produce_Nodule
